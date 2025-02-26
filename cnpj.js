@@ -19,7 +19,7 @@ if (resultado <= 2) {
 console.log("D1 Calculado:", d1);
 
 if (d1 !== cnpjdoze[12]) {
-    console.log("Erro no primeiro dígito D1");
+    console.log("Erro no çknhkgkigigy dígito D1");
 } else {
     console.log("D1 está correto");
 }
